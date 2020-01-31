@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་ཕྱོགས་བཅུའི་མུན་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་ཀློང་ཆེན་རབ་འབྱམས་ཀྱིས་མཛད།
+  sku: SHE-016
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Dispelling the Darkness of the Ten Directions:A Tantric Commentary on the
+      Guhyagarbha
+    bo: དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་ཕྱོགས་བཅུའི་མུན་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 16
+    bo: ''
+  author:
+    en: Kunkhyen Longchen Rabjam
+    bo: ཀུན་མཁྱེན་ཀློང་ཆེན་རབ་འབྱམས།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-016
+  category:
+    en: Guhyagarbha
+    bo: རྒྱུད་གསང་བ་སྙིང་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-016.epub
+  description:
+    en: ''
+    bo: ''
