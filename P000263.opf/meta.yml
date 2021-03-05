@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000263
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་ཕྱོགས་བཅུའི་མུན་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་ཀློང་ཆེན་རབ་འབྱམས་ཀྱིས་མཛད།
-  sku: SHE-016
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-016
 web_metadata:
   title:
     en: Dispelling the Darkness of the Ten Directions:A Tantric Commentary on the
